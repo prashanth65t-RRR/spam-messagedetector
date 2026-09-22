@@ -1,0 +1,6 @@
+{
+  "name": "Spam Message Detector",
+  "description": "Intelligent spam, phishing, and scam detection assistant for SMS, email, and chat messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
